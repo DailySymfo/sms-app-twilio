@@ -1,0 +1,15 @@
+Implémentation de la librairie Twilio sous symfony
+
+1. Installer le notifier " composer req symfony/twilio-notifier	"
+
+2. Installer le client Twilio composer require twilio/sdk
+
+3. Definir un service qui va gerer l'envoie
+
+4. Ajouter une vue
+
+Variables importantes
+
+TWILIO_DSN=
+twilio_account_sid=
+twilio_auth_token=
